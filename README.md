@@ -1,6 +1,6 @@
-# Get-started-project-IONIC
+# Get started project IONIC
 this is an already stup tu use for your Ionic mobile apps !!
-## peurpece :
+## purpose :
 - I created this project for all poeple how want start their IONIC Stup for mobile APPs. This project contain the first asset for your seccesfful mobile app suported in ANDROID and IOS. 
 - To use this preorganised setup use the follow command to clon it in your devolopment envirement:
 ```
